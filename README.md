@@ -4,7 +4,6 @@ VEÍCULO: Anais do Congresso da Sociedade Brasileira de Computação (CSBC 2021)
 
 Autoras: Adrianne Veras, Adrielle Veras, Fabíola Pantoja.
 
-Todas as informações dos estudos filtrados e seus metadados estão organizados na ferramenta Parsifal e estudos selecionados de acordo com os critérios foram catalogados com o ID, título, autor, ano e as referências em uma planilha neste repositório
+Todas as informações dos estudos filtrados e seus metadados estão organizados na ferramenta Parsifal e estudos selecionados de acordo com os critérios foram catalogados com o ID, título, autor, ano e as referências em uma planilha neste repositório.
 
-“a obra”, a ser publicado em VEÍCULO: Anais do Congresso da Sociedade Brasileira de Computação (CSBC 2021).
 
